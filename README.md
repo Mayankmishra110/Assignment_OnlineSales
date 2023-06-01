@@ -1,5 +1,6 @@
 # Assignment_OnlineSales
-
+Hello folks, here's the brief about problem statements and solutions
+and the deployed link for the same:https://mayankmishra110.github.io/Assignment_OnlineSales/
 # 🧑‍💻Solutions.
 
 
